@@ -1,0 +1,3 @@
+/home/nash/Documents/My_Projects/C/Calculadora_em_C/cmake-build-debug/CMakeFiles/Calculadora_em_C.dir
+/home/nash/Documents/My_Projects/C/Calculadora_em_C/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nash/Documents/My_Projects/C/Calculadora_em_C/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,13 @@
+# ninja log v5
+340	523	1699528469955607062	CMakeFiles/Calculadora_em_C.dir/Calculadora/fatorial.c.o	8eef7a2b4b860945
+1	75	1699528469583604827	CMakeFiles/Calculadora_em_C.dir/Calculadora/soma.c.o	a76c294484449c2e
+76	340	1699528469847606413	CMakeFiles/Calculadora_em_C.dir/Calculadora/divisao.c.o	499cf99bc5275bea
+523	614	1699528470119608045	CMakeFiles/Calculadora_em_C.dir/Calculadora/primo.c.o	2b7a2c360cc9e762
+524	613	1699528470119608045	CMakeFiles/Calculadora_em_C.dir/Calculadora/subtracao.c.o	a0855b54038014be
+1	349	1699528595412234777	CMakeFiles/Calculadora_em_C.dir/Calculadora/cosseno.c.o	5c5a6360c6309954
+0	64	1699528469571604755	CMakeFiles/Calculadora_em_C.dir/main.c.o	9dc8147054cb39c5
+1	451	1699528469959607085	CMakeFiles/Calculadora_em_C.dir/Calculadora/Menu.c.o	284a8f2c94f76d36
+451	534	1699528470039607566	CMakeFiles/Calculadora_em_C.dir/Calculadora/multiplicacao.c.o	1d40bfd75581eecc
+445	524	1699528469971607158	CMakeFiles/Calculadora_em_C.dir/Calculadora/media.c.o	48138281f59c9fa3
+0	693	1699532131196010715	build.ninja	17e3ae19478de467
+1	205	1699532131412010805	Calculadora_em_C	e105a9e1ff81bc86
